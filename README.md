@@ -1,3 +1,11 @@
+
+How to visualize images
+======================
+- https://cookbook.vaadin.com/grid-image-renderer
+- https://www.demo2s.com/java/vaadin-image-tutorial-with-examples.html
+- https://vaadin.com/blog/saving-and-displaying-images-using-jpa
+
+
 Flow Spring examples
 ======================
 
